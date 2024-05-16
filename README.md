@@ -145,7 +145,7 @@ MARCH
  - API First
    - **Книга** [Паттерны проектирования API](https://www.piter.com/product/patterny-proektirovaniya-api)
    - [статья на хабр](https://habr.com/ru/articles/205560/)
-   - [the 5 principles of api first development](thttps://www.algolia.com/blog/product/the-5-principles-of-api-first-development-and-what-does-api-first-even-mean/)
+   - [the 5 principles of api first development](https://www.algolia.com/blog/product/the-5-principles-of-api-first-development-and-what-does-api-first-even-mean/)
    - [api-principles architecture](https://schweizerischebundesbahnen.github.io/api-principles/architecture/)
    - [semver](https://semver.org/lang/ru/) 
    - [12 fqctor app](https://12factor.net/ru/)

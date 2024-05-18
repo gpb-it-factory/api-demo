@@ -148,4 +148,4 @@ MARCH
    - [the 5 principles of api first development](https://www.algolia.com/blog/product/the-5-principles-of-api-first-development-and-what-does-api-first-even-mean/)
    - [api-principles architecture](https://schweizerischebundesbahnen.github.io/api-principles/architecture/)
    - [semver](https://semver.org/lang/ru/) 
-   - [12 fqctor app](https://12factor.net/ru/)
+   - [12 fаctor app](https://12factor.net/ru/)
